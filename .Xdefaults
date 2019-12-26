@@ -1,0 +1,24 @@
+! General settings
+urxvt.scrollBar: false
+urxvt.scrollWithBuffer: true
+urxvt.font: xft:ubuntu mono:pixelsize=14
+
+! Colors
+urxvt.background: #111111
+urxvt.foreground: #b1acac
+urxvt.color0: #2a2929
+urxvt.color1: #65a769
+urxvt.color2: #5384a6
+urxvt.color3: #cc7833
+urxvt.color4: #6d9cbe
+urxvt.color5: #a95353
+urxvt.color6: #6d9cbe
+urxvt.color7: #dddddd
+urxvt.color8: #474747
+urxvt.color9: #a95353
+urxvt.color10: #cc7833
+urxvt.color11: #83ad71
+urxvt.color12: #6d9cbe
+urxvt.color13: #5384a6
+urxvt.color14: #24677a
+urxvt.color15: #dddddd

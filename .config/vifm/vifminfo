@@ -1,0 +1,113 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/carlos/
+	..
+1577355466
+'b
+	/home/carlos/bin/
+	..
+1577355466
+'h
+	/home/carlos/
+	..
+1577355466
+'z
+	/home/carlos/.config/vifm
+	..
+1577355466
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/usr/share/icons
+	Adwaita
+1
+d/usr/share
+	enchant
+5
+d/usr
+	lib32
+4
+d/usr/lib32
+	..
+0
+d/usr
+	sbin
+7
+d/
+	lib
+5
+d/lib
+	..
+0
+d/
+	home
+4
+d/home
+	carlos
+1
+d/home/carlos
+	EnvironmentSettings
+1
+d/home
+	carlos
+1
+d/
+	home
+4
+d/home
+	..
+0
+d/
+	home
+4
+d/home
+	carlos
+1
+d/home/carlos
+	EnvironmentSettings
+1
+d
+
+# Right window history (oldest to newest):
+D/usr/share/icons
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:!ls -a
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

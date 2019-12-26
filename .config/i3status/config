@@ -1,0 +1,45 @@
+# General settings
+general {
+	output_format = "i3bar"
+	colors = true
+	color_good = "#cc7833"
+	color_degraded = "#24677a"
+	color_bad = "#a95353"
+	interval = 1
+}
+
+# Bar items order
+order += "ethernet enp2s0"
+order += "cpu_temperature 0"
+order += "disk /"
+order += "memory"
+order += "tztime local"
+
+# Ethernet
+ethernet enp2s0{
+	format_up = "Eth: %speed"
+	format_down = "Eth: %speed"
+}
+
+# Temperature
+cpu_temperature 0 {
+	format = "Temp: %degrees Cel"
+	path = "/sys/devices/platform/coretemp.0/hwmon/hwmon1/temp1_input"
+}
+ 
+# Secondary memory
+disk "/" {
+	format = "Disk: %avail"
+}
+
+# Primary memory
+memory {
+	format = "Mem: %used"
+	threshold_degraded = "10%"
+	format_degraded = "Mem: %free"
+}
+
+# Time
+tztime local {
+	format = "%Y.%m.%d  %H:%M:%S "
+}
